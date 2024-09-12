@@ -16,7 +16,7 @@ import java.util.Arrays;
 import java.util.List;
 
 @RestController
-@RequestMapping("/university")
+@RequestMapping("/restapiassign1/university")
 public class UniversityController {
     @Autowired
     private RestTemplate restTemplate;
