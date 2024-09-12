@@ -35,7 +35,7 @@ public class UniversityController {
 
     @GetMapping("/test")
     public String testMapping() {
-        return "Controller is working!";
+        return "RestApiAssign1 controller is working!";
     }
 }
 
